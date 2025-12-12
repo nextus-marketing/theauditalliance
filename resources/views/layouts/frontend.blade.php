@@ -4,7 +4,7 @@
 	<!-- Meta -->
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="The Audit Alliance provides reliable bookkeeping, payroll, tax solutions, and financial management services for small and growing businesses. Simplify your finances with expert support you can trust.">
+    <meta name="description" content="Get reliable bookkeeping, accounting, and audit services designed to improve accuracy, compliance, and financial clarity.">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
 	<!-- Page Title -->

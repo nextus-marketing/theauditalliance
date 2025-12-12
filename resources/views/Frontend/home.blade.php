@@ -1,5 +1,5 @@
 @extends('layouts.frontend')
-@section('title')The Audit Alliance – Professional Accounting, Bookkeeping & Tax Management Services @endsection
+@section('title')The Audit Alliance – Professional Bookkeeping & Audit Services @endsection
 @section('content')
 
     <!-- Hero Section Start -->
