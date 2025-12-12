@@ -621,7 +621,7 @@
                                                 </figure>
                                             </div>
                                             <div class="author-content">
-                                                <h2>john doe</h2>
+                                                <h2>john Nelson</h2>
                                             </div>
                                         </div>
                                         <div class="testimonial-body">
