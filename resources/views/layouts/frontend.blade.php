@@ -60,7 +60,7 @@
 				<div class="container">
 					<!-- Logo Start -->
 					<a class="navbar-brand" href="/">
-						<img src="/frontend/my-img/logo.png" alt="Logo" style="width:250px; height:75px;">
+						<img src="/frontend/my-img/logo.png" alt="Logo" style="width:320px; height:80px;">
 					</a>
 					<!-- Logo End -->
 
@@ -103,7 +103,7 @@
                                 <!-- Footer Logo Start -->
                                 <div class="footer-logo">
                                     <a href="/">
-                                        <img src="/frontend/my-img/footer-logo.png" alt="footer-logo"  style="width:300px; height:90px;">
+                                        <img src="/frontend/my-img/footer-logo.png" alt="footer-logo"  style="width:300px; height:72px;">
                                     </a>
                                     
                                 </div>

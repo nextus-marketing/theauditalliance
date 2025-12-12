@@ -375,12 +375,12 @@
 
             <!-- 8 -->
             <div class="col-lg-3 col-md-6">
-                <div class="we-help-box fadeInUp" data-wow-delay="0.5s">
+                <div class="we-help-box wow fadeInUp" data-wow-delay="0.35s">
                     <div class="icon-box" style="font-size:40px; color:#fff;">
                         <i class="fa-solid fa-user-tie"></i>
                     </div>
                     <div class="we-help-title">
-                        <h3>Accounting Services for Startup</h3>
+                    <h3>Accounting Services for Startup</h3>
                     </div>
                 </div>
             </div>
