@@ -4,7 +4,7 @@
 	<!-- Meta -->
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="AccoLedgers provides reliable bookkeeping, payroll, tax solutions, and financial management services for small and growing businesses. Simplify your finances with expert support you can trust.">
+    <meta name="description" content="The Audit Alliance provides reliable bookkeeping, payroll, tax solutions, and financial management services for small and growing businesses. Simplify your finances with expert support you can trust.">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
 	<!-- Page Title -->
@@ -60,7 +60,7 @@
 				<div class="container">
 					<!-- Logo Start -->
 					<a class="navbar-brand" href="/">
-						<img src="/frontend/my-img/logo.png" alt="Logo" style="width:220px; height:55px;">
+						<img src="/frontend/my-img/logo.png" alt="Logo" style="width:250px; height:75px;">
 					</a>
 					<!-- Logo End -->
 
@@ -75,7 +75,7 @@
                         </div>
                         <!-- Let’s Start Button Start -->
                         <div class="header-btn d-inline-flex">
-                            <a href="#" class="btn-default">Call Now</a>
+                            <a href="tel:+1234567890" class="btn-default">Call Now</a>
                         </div>
                         <!-- Let’s Start Button End -->
 					</div>
@@ -102,7 +102,10 @@
                             <div class="col-lg-6">
                                 <!-- Footer Logo Start -->
                                 <div class="footer-logo">
-                                    <img src="/frontend/my-img/footer-logo.png" alt="footer-logo"  style="width:300px; height:90px;">
+                                    <a href="/">
+                                        <img src="/frontend/my-img/footer-logo.png" alt="footer-logo"  style="width:300px; height:90px;">
+                                    </a>
+                                    
                                 </div>
                                 <!-- Footer Logo End -->
                             </div>

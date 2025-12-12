@@ -2,4 +2,4 @@ User-agent: *
 Disallow:  /login
 Allow:  /
 
-Sitemap: https://www.accoledgers.com/sitemap.xml
+Sitemap: https://theauditalliance.com/sitemap.xml

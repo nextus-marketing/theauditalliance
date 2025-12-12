@@ -27,7 +27,7 @@
                         </div>
 
                         <div class="hero-content-footer wow fadeInUp" data-wow-delay="0.75s">
-                            <a href="+1234567890" class="btn-default">Contact Now</a>
+                            <a href="tel:+1234567890" class="btn-default">Speak With an Expert</a>
                         </div>
                     </div>
                     <!-- Hero Left Content End -->
@@ -259,7 +259,7 @@
                 <div class="col-lg-4">
                     <!-- Section Btn Start -->
                     <div class="section-btn wow fadeInUp" data-wow-delay="0.25s">
-                        <a href="+1234567890" class="btn-default btn-highlighted btn-large">Talk To An Expert</a>
+                        <a href="tel:+1234567890" class="btn-default btn-highlighted btn-large">Talk To An Expert</a>
                     </div>
                     <!-- Section Btn End -->
                 </div>
@@ -428,7 +428,7 @@
 
                         <!-- Pricing Box Footer Start -->
                         <div class="pricing-box-footer">
-                            <a href="+1234567890" class="btn-default">contact now</a>
+                            <a href="tel:+1234567890" class="btn-default">contact now</a>
                         </div>
                         <!-- Pricing Box Footer End -->
                     </div>
@@ -464,7 +464,7 @@
 
                         <!-- Pricing Box Footer Start -->
                         <div class="pricing-box-footer">
-                            <a href="+1234567890" class="btn-default">contact now</a>
+                            <a href="tel:+1234567890" class="btn-default">contact now</a>
                         </div>
                         <!-- Pricing Box Footer End -->
                     </div>
@@ -500,7 +500,7 @@
 
                         <!-- Pricing Box Footer Start -->
                         <div class="pricing-box-footer">
-                            <a href="+1234567890" class="btn-default">contact now</a>
+                            <a href="tel:+1234567890" class="btn-default">contact now</a>
                         </div>
                         <!-- Pricing Box Footer End -->
                     </div>
@@ -535,7 +535,7 @@
 
                         <!-- Pricing Box Footer Start -->
                         <div class="pricing-box-footer">
-                            <a href="+1234567890" class="btn-default btn-highlighted">contact now</a>
+                            <a href="tel:+1234567890" class="btn-default btn-highlighted">contact now</a>
                         </div>
                         <!-- Pricing Box Footer End -->
                     </div>
@@ -572,7 +572,7 @@
 
                         <!-- Pricing Box Footer Start -->
                         <div class="pricing-box-footer">
-                            <a href="+1234567890" class="btn-default">contact now</a>
+                            <a href="tel:+1234567890" class="btn-default">contact now</a>
                         </div>
                         <!-- Pricing Box Footer End -->
                     </div>
@@ -600,7 +600,7 @@
                         <!-- Section Body Start -->
                         <div class="section-body">
                             <p class="wow fadeInUp" data-wow-delay="0.25s">Behind every successful partnership is a story worth sharing. Our clients trust us to simplify their finances, deliver accurate results, and support their growth—here’s what they have to say.</p>
-                            <a href="+1234567890" class="btn-default wow fadeInUp" data-wow-delay="0.5s">contact us</a>
+                            <a href="tel:+1234567890" class="btn-default wow fadeInUp" data-wow-delay="0.5s">contact us</a>
                         </div>
                         <!-- Section Body Btn End -->
                     </div>
@@ -701,7 +701,7 @@
             </div>
 
             <div class="col-lg-12 mt-3">
-                <a href="+1234567890" class="btn-default wow fadeInUp" data-wow-delay="0.5s">Speak With an Expert</a>
+                <a href="tel:+1234567890" class="btn-default wow fadeInUp" data-wow-delay="0.5s">Speak With an Expert</a>
             </div>
         </div>
     </div>
