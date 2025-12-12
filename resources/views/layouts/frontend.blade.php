@@ -132,7 +132,7 @@
 
                                     <!-- Newsletters Form Start -->
                                     <div class="newsletters-form">
-                                        <p style="color:#ffff;"><b class="highlights">AccoLedgers </b> is a trusted accounting and financial services firm providing expert bookkeeping, tax, and payroll solutions. We help businesses and individuals stay organized, compliant, and audit-ready.</p>
+                                        <p style="color:#ffff;"><b class="highlights">The Audit Alliance </b> is a trusted accounting and financial services firm providing expert bookkeeping, tax, and payroll solutions. We help businesses and individuals stay organized, compliant, and audit-ready.</p>
                                        
                                     </div>
                                     <!-- Newsletters Form End -->
@@ -170,7 +170,7 @@
                                         <div class="footer-contact">
                                             <h2>say hello</h2>
                                             <ul>
-                                                <li><a href="mailto:info@accoledgers.com">info@accoledgers.com</a></li>
+                                                <li><a href="mailto:info@theauditalliance.com">info@theauditalliance.com</a></li>
                                                 <li><a href="tel:+123456789">(+0) 123 456 789</a></li>
                                             </ul>
                                         </div>
@@ -188,7 +188,7 @@
                             <div class="row">
                                 <!-- Left Side: Copyright -->
                                <div class="col-md-6 text-left">
-                                    <p style="color: #ffffff; align-item:center;">© 2025 AccoLedgers. All rights reserved.</p>
+                                    <p style="color: #ffffff; align-item:center;">© 2025 The Audit Alliance. All rights reserved.</p>
                                 </div>
 
                                 <!-- Right Side: Privacy Policy -->
@@ -219,7 +219,7 @@
 
         <!-- Title -->
         <h2><span style="color:#00000;">Get Started Today</span></h2>
-        <p>Your stress-free financial journey begins with Accoledgers.</p>
+        <p>Your Stress-Free Financial Journey Begins With The Audit Alliance.</p>
 
         <!-- Call Button (same class as requested) -->
         <a href="tel:+1234567890" class="btn-default popup-btn-bounce">

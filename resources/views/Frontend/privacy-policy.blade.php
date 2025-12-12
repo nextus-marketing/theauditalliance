@@ -164,7 +164,7 @@
                         <h5 class="text-anime-style-3">Contact Us</h5>
                         </br>
                         <p>If you have any questions, contact us at:</p>
-                        Email:  <a href="mailto:info@The Audit Alliance.com">info@The Audit Alliance.com</a> 
+                        Email:  <a href="mailto:info@theauditalliance.com">info@theauditalliance.com</a> 
 
                     </div>
                 </div>
