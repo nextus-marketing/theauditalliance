@@ -27,7 +27,7 @@
                         </div>
 
                         <div class="hero-content-footer wow fadeInUp" data-wow-delay="0.75s">
-                            <a href="tel:+1234567890" class="btn-default">Speak With an Expert</a>
+                            <a href="tel:+1234567890" class="btn-default">Speak With An Expert</a>
                         </div>
                     </div>
                     <!-- Hero Left Content End -->
@@ -701,7 +701,7 @@
             </div>
 
             <div class="col-lg-12 mt-3">
-                <a href="tel:+1234567890" class="btn-default wow fadeInUp" data-wow-delay="0.5s">Speak With an Expert</a>
+                <a href="tel:+1234567890" class="btn-default wow fadeInUp" data-wow-delay="0.5s">Speak With An Expert</a>
             </div>
         </div>
     </div>
