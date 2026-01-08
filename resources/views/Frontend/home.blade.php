@@ -12,7 +12,7 @@
                         <!-- Google Rating Start -->
                         <div class="google-rating wow fadeInUp">
                              <ul>
-                                <li>Welcome to The Audit Alliance eeee</li>
+                                <li>Welcome to The Audit Alliance </li>
                                 
                              </ul>   
                         </div>
