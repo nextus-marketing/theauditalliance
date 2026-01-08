@@ -45,7 +45,7 @@
                             <li><strong>Service</strong> – Refers to the Website.</li>
                             <li><strong>Terms and Conditions</strong> – The agreement governing use of the Service.</li>
                             <li><strong>Third-party Social Media Service</strong> – Any content or services provided by a third-party.</li>
-                            <li><strong>Website</strong> – The Audit Alliance, accessible at https://the-bookify.com/</li>
+                            <li><strong>Website</strong> – The Audit Alliance, accessible at <a href="https://theauditalliance.com/"> https://theauditalliance.com/</a></li>
                             <li><strong>You</strong> – The individual or entity using the Service.</li>
                         </ul>
 

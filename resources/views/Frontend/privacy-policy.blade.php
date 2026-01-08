@@ -47,7 +47,7 @@
                             <li><strong>Service</strong> – Refers to the Website.</li>
                             <li><strong>Service Provider</strong> – Third-party companies or individuals who process data for the Company.</li>
                             <li><strong>Usage Data</strong> – Data collected automatically from using the Service.</li>
-                            <li><strong>Website</strong> – The Audit Alliance, accessible at https://the-bookify.com/</li>
+                            <li><strong>Website</strong> – The Audit Alliance, accessible at <a href="https://theauditalliance.com/"> https://theauditalliance.com/</a></li>
                             <li><strong>You</strong> – The individual or entity using or accessing the Service.</li>
                         </ul>
 
